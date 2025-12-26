@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 项目特定 - 用户数据
+images/
+saved_cookie.json
+saved_cookies.json
+gui_settings.json
+
+# 项目特定 - 开发文档
+功能总和.md
+问题总和.md
+技术问题记录.md
+打包说明.md
+PyInstaller打包优化指南.md
+
+# 缓存
+.ruff_cache/
+*.log
+
+# 批处理和脚本
+cyforkk.bat
+cyforkk.ps1
+
+# 打包相关
+build/
+# dist/ - 如需上传EXE，注释此行
+*.spec
+!build_gui.spec
+
+# Git
+.git/
+.gitattributes
