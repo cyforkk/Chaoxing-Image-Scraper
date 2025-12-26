@@ -46,6 +46,7 @@ gui_settings.json
 PyInstaller打包优化指南.md
 Python打包完整指南.md
 EXE启动速度优化指南.md
+Git仓库清理指南.md
 
 # 缓存
 .ruff_cache/
